@@ -1,0 +1,6 @@
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\bin\Debug\botpkmgoApp.portable.dll
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\bin\Debug\botpkmgoApp.portable.pdb
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\obj\Debug\botpkmgoApp.portable.csprojAssemblyReference.cache
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\obj\Debug\botpkmgoApp.portable.csproj.CoreCompileInputs.cache
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\obj\Debug\botpkmgoApp.portable.dll
+C:\Users\jsullcaq\Desktop\GitHub Repositorio\botpkmgoApp\botpkmgoApp.portable\obj\Debug\botpkmgoApp.portable.pdb

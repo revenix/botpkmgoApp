@@ -1,0 +1,29 @@
+<resources>
+
+  <style name="Theme.DesignMenu" parent="Base.Theme.DesignMenu">
+  </style>
+
+  <style name="Theme.DesignMenu2" parent="Base.Theme.DesignMenu">
+  </style>
+
+  <style name="Base.Theme.DesignMenu" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#673AB7</item>
+    <item name="colorPrimaryDark">#512DA8</item>
+    <item name="colorAccent">#FF4081</item>
+  </style>
+
+  <style name="Widget.CardContent" parent="android:Widget">
+    <item name="android:paddingLeft">16dp</item>
+    <item name="android:paddingRight">16dp</item>
+    <item name="android:paddingTop">24dp</item>
+    <item name="android:paddingBottom">24dp</item>
+    <item name="android:orientation">vertical</item>
+  </style>
+
+  <style name="Theme.DesignMenu.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+  <style name="Theme.DesignMenu.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+  <style name="AppTheme" parent="ThemeOverlay.AppCompat.Light" />
+
+  
+</resources>

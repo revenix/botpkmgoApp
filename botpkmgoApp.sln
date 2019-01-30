@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "botpkmgoApp.droid", "botpkmgoApp.droid\botpkmgoApp.droid.csproj", "{ADA036B1-80B8-4BAF-B263-AF5BA4217287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "botpkmgoApp.portable", "botpkmgoApp.portable\botpkmgoApp.portable.csproj", "{3719463C-D79E-4059-B35E-2DDB94D2E32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA036B1-80B8-4BAF-B263-AF5BA4217287}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3719463C-D79E-4059-B35E-2DDB94D2E32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3719463C-D79E-4059-B35E-2DDB94D2E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3719463C-D79E-4059-B35E-2DDB94D2E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3719463C-D79E-4059-B35E-2DDB94D2E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A560961-1E7D-4D7A-8280-C565D6BF306E}
+	EndGlobalSection
+EndGlobal
